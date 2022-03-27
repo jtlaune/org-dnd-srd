@@ -221,6 +221,9 @@ the Strength check. If the character lacks that proficiency, he or she
 just makes a Strength check.
 
 *** Table- Related Skills                                           :table:
+:PROPERTIES:
+:ID:       6bc3e291-7ce0-455b-9a57-c78f2577c5b4
+:END:
 | Strength  | Dexterity       | Intelligence  | Wisdom          | Charisma     |
 |-----------+-----------------+---------------+-----------------+--------------|
 | Athletics | Acrobatics      | Arcana        | Animal Handling | Deception    |
